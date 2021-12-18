@@ -1,50 +1,4 @@
-# Snake_game
-A snake game written in Python using the Pygame library.
-
-
-# Installing
-
-Download the Python 3 installer package from the official website and install it, if not installed previously.
-
-Run the following in the terminal to install the Pygame library
-
-pip3 install pygame
-
-
-# Running the application
-Download the source code from the repository and run the file just as any other Python script (.py) file.
-
-
-python3 Snake\ Game.py
-
-
-The difficulty variable can be changed with the values provided in the comment to set the difficulty level.
-
-The rest of the code is properly commented and self explanatory. Tweaks can be made to change the play style or visuals of the game.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-# Snake Eater
+# Snake Game
 A snake game written in Python using the Pygame library.
 
 
@@ -60,7 +14,7 @@ pip3 install pygame
 ## Running the application
 Download the source code from the repository and run the file just as any other Python script (.py) file.
 ```
-python3 Snake\ Game.py
+python3 Snake\ snake.py
 ```
 
 The `difficulty` variable can be changed with the values provided in the comment to set the difficulty level.
@@ -71,6 +25,10 @@ The rest of the code is properly commented and self explanatory. Tweaks can be m
 ## Screenshots
 
 ![1](https://user-images.githubusercontent.com/32998741/33873439-27f635b2-df45-11e7-8fc1-f7812f17447a.png)
+
+![IMG_20211218_182201](https://user-images.githubusercontent.com/79913163/146642830-00993981-e697-4504-ae31-baee7ddf67f9.jpg)
+
+
 *Written using PyCharm*
 
 ![2](https://user-images.githubusercontent.com/32998741/33873437-2780ed2a-df45-11e7-9776-b1f151fa4e02.png)
