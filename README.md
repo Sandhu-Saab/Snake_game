@@ -26,12 +26,12 @@ The rest of the code is properly commented and self explanatory. Tweaks can be m
 
 
 ![IMG_20211218_182201](https://user-images.githubusercontent.com/79913163/146642830-00993981-e697-4504-ae31-baee7ddf67f9.jpg)
-
-
 *Written using PyCharm*
 
-![2](https://user-images.githubusercontent.com/32998741/33873437-2780ed2a-df45-11e7-9776-b1f151fa4e02.png)
+
+![IMG_20211218_190729](https://user-images.githubusercontent.com/79913163/146643107-786fb6b1-a17c-43ee-8ab2-6029530935d9.jpg)
 *Active game screen*
+
 
 ![3](https://user-images.githubusercontent.com/32998741/33873440-28647360-df45-11e7-8291-b82d5646352f.png)
 *Game over screen*
