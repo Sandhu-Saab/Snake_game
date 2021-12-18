@@ -33,8 +33,6 @@ The rest of the code is properly commented and self explanatory. Tweaks can be m
 *Active game screen*
 
 
-![3](https://user-images.githubusercontent.com/32998741/33873440-28647360-df45-11e7-8291-b82d5646352f.png)
-*Game over screen*
 
 
 ## Prerequisites
@@ -44,9 +42,8 @@ The rest of the code is properly commented and self explanatory. Tweaks can be m
 
 ## Authors
 
-* **Rajat Dipta Biswas** - *Initial work*
+* **Sharandeep Singh** - *Initial work*
 
-See also the list of [contributors](https://github.com/rajatdiptabiswas/snake-pygame/graphs/contributors) who participated in this project.
 
 ## Acknowledgements
 * [Pygame Documentations](https://www.pygame.org/docs/)
